@@ -16,21 +16,6 @@ services:
     networks:
       - laravel
 
-  # The MySQL database container
-  db:
-    image: mysql:5.7
-    container_name: laravel_db
-    restart: unless-stopped
-    environment:
-      MYSQL_DATABASE: laravel
-      MYSQL_ROOT_PASSWORD: secret
-      MYSQL_USER: laraveluser
-      MYSQL_PASSWORD: secret
-    volumes:
-      - dbdata:/var/lib/mysql
-    networks:
-      - laravel
-
   # The Nginx web server container
   webserver:
     image: nginx:alpine
