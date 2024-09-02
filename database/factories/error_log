@@ -1,0 +1,55 @@
+[24-Aug-2020 14:20:22 UTC] PHP Notice:  Undefined variable: factory in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[24-Aug-2020 14:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 08:41:33 UTC] PHP Notice:  Undefined variable: factory in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 08:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 13:33:49 UTC] PHP Notice:  Undefined variable: factory in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 13:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:48:53 UTC] PHP Notice:  Undefined variable: factory in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:48:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:48:53 UTC] PHP Notice:  Undefined variable: factory in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:48:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:48:54 UTC] PHP Notice:  Undefined variable: factory in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:48:54 UTC] PHP Notice:  Undefined variable: factory in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:49:43 UTC] PHP Notice:  Undefined variable: factory in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:49:47 UTC] PHP Notice:  Undefined variable: factory in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[15-Sep-2020 20:49:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[08-Oct-2020 20:40:23 UTC] PHP Notice:  Undefined variable: factory in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[08-Oct-2020 20:40:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[08-Nov-2020 02:01:56 UTC] PHP Notice:  Undefined variable: factory in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19
+[08-Nov-2020 02:01:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/factories/UserFactory.php on line 19

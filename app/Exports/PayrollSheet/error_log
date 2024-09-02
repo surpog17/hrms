@@ -1,0 +1,14 @@
+[15-Sep-2020 08:54:03 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/AwardSheet.php on line 21
+[15-Sep-2020 08:54:04 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/DeductionSheet.php on line 20
+[15-Sep-2020 08:54:05 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/AwardSheet.php on line 21
+[15-Sep-2020 08:54:05 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/PayrollSheet.php on line 20
+[15-Sep-2020 08:54:08 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/DeductionSheet.php on line 20
+[15-Sep-2020 13:36:03 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/AwardSheet.php on line 21
+[15-Sep-2020 13:36:05 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/DeductionSheet.php on line 20
+[15-Sep-2020 13:36:07 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/PayrollSheet.php on line 20
+[02-Oct-2020 18:49:46 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/PayrollSheet.php on line 20
+[04-Oct-2020 04:30:26 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/AwardSheet.php on line 21
+[24-Oct-2020 15:01:14 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/DeductionSheet.php on line 20
+[31-Oct-2020 23:48:44 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/AwardSheet.php on line 21
+[08-Nov-2020 09:49:25 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/PayrollSheet.php on line 20
+[08-Nov-2020 17:13:51 UTC] PHP Fatal error:  Trait 'Maatwebsite\Excel\Concerns\Exportable' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exports/PayrollSheet/DeductionSheet.php on line 20

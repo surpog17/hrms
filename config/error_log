@@ -1,0 +1,536 @@
+[15-Sep-2020 02:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[15-Sep-2020 08:35:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[15-Sep-2020 08:35:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php on line 19
+[15-Sep-2020 08:35:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php on line 16
+[15-Sep-2020 08:35:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[15-Sep-2020 08:35:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[15-Sep-2020 08:35:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/services.php on line 18
+[15-Sep-2020 08:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[15-Sep-2020 08:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/session.php on line 21
+[15-Sep-2020 08:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/database.php on line 18
+[15-Sep-2020 08:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/services.php on line 18
+[15-Sep-2020 08:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tvya4c9bs13u/public_html/HRMS/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/view.php on line 17
+[15-Sep-2020 08:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[15-Sep-2020 08:35:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/session.php on line 21
+[15-Sep-2020 08:35:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/database.php on line 18
+[15-Sep-2020 08:35:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tvya4c9bs13u/public_html/HRMS/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/view.php on line 17
+[15-Sep-2020 08:35:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php on line 19
+[15-Sep-2020 08:35:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[15-Sep-2020 08:36:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php on line 19
+[15-Sep-2020 13:32:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php on line 19
+[15-Sep-2020 13:32:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[15-Sep-2020 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php on line 16
+[15-Sep-2020 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[15-Sep-2020 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[15-Sep-2020 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/database.php on line 18
+[15-Sep-2020 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/services.php on line 18
+[15-Sep-2020 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php on line 91
+[15-Sep-2020 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tvya4c9bs13u/public_html/HRMS/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/view.php on line 17
+[15-Sep-2020 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/session.php on line 21
+[15-Sep-2020 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php on line 32
+[15-Sep-2020 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php on line 19
+[15-Sep-2020 13:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php on line 16
+[15-Sep-2020 13:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[15-Sep-2020 13:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/services.php on line 18
+[15-Sep-2020 13:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/database.php on line 18
+[15-Sep-2020 13:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[15-Sep-2020 13:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tvya4c9bs13u/public_html/HRMS/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/view.php on line 17
+[15-Sep-2020 13:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/session.php on line 21
+[15-Sep-2020 13:32:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php on line 91
+[15-Sep-2020 13:32:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[15-Sep-2020 13:32:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php on line 32
+[15-Sep-2020 13:32:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php on line 16
+[15-Sep-2020 20:21:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[15-Sep-2020 20:21:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[15-Sep-2020 20:21:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[15-Sep-2020 20:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[15-Sep-2020 20:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[15-Sep-2020 20:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[15-Sep-2020 20:21:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[15-Sep-2020 20:21:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[15-Sep-2020 20:21:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[15-Sep-2020 20:22:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[15-Sep-2020 20:22:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[15-Sep-2020 20:22:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[15-Sep-2020 20:22:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[15-Sep-2020 20:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[16-Sep-2020 04:13:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[16-Sep-2020 04:13:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tvya4c9bs13u/public_html/HRMS/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/view.php on line 17
+[16-Sep-2020 04:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php on line 19
+[16-Sep-2020 04:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php on line 16
+[16-Sep-2020 04:13:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php on line 91
+[16-Sep-2020 04:13:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[16-Sep-2020 04:13:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php on line 32
+[16-Sep-2020 04:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php on line 19
+[16-Sep-2020 04:13:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/session.php on line 21
+[16-Sep-2020 04:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/services.php on line 18
+[16-Sep-2020 04:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/database.php on line 18
+[16-Sep-2020 04:13:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php on line 16
+[16-Sep-2020 04:13:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[16-Sep-2020 04:21:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php on line 19
+[16-Sep-2020 14:13:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[16-Sep-2020 22:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[17-Sep-2020 00:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tvya4c9bs13u/public_html/HRMS/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/view.php on line 17
+[17-Sep-2020 02:10:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php on line 91
+[17-Sep-2020 07:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php on line 16
+[17-Sep-2020 11:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[17-Sep-2020 22:32:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/services.php on line 18
+[18-Sep-2020 06:16:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php on line 32
+[18-Sep-2020 10:00:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/session.php on line 21
+[18-Sep-2020 17:13:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php on line 19
+[18-Sep-2020 19:28:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[18-Sep-2020 20:44:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/database.php on line 18
+[18-Sep-2020 21:03:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tvya4c9bs13u/public_html/HRMS/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/view.php on line 17
+[18-Sep-2020 22:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php on line 16
+[18-Sep-2020 22:47:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php on line 19
+[18-Sep-2020 23:53:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php on line 91
+[19-Sep-2020 00:12:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[19-Sep-2020 02:06:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php on line 32
+[19-Sep-2020 02:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php on line 19
+[19-Sep-2020 03:12:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/session.php on line 21
+[19-Sep-2020 04:47:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/services.php on line 18
+[19-Sep-2020 05:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/database.php on line 18
+[19-Sep-2020 06:50:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[19-Sep-2020 07:18:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php on line 16
+[19-Sep-2020 08:12:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php on line 16
+[19-Sep-2020 09:22:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[24-Sep-2020 17:13:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[24-Sep-2020 23:41:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tvya4c9bs13u/public_html/HRMS/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/view.php on line 17
+[25-Sep-2020 00:54:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php on line 19
+[25-Sep-2020 04:43:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php on line 16
+[25-Sep-2020 09:45:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php on line 91
+[25-Sep-2020 14:50:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[25-Sep-2020 18:20:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php on line 32
+[26-Sep-2020 04:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php on line 19
+[26-Sep-2020 08:13:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/session.php on line 21
+[26-Sep-2020 16:57:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/services.php on line 18
+[26-Sep-2020 17:02:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/database.php on line 18
+[26-Sep-2020 18:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php on line 16
+[26-Sep-2020 21:03:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[20-Oct-2020 04:53:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php on line 19
+[20-Oct-2020 04:55:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tvya4c9bs13u/public_html/HRMS/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/view.php on line 17
+[20-Oct-2020 06:26:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php on line 91
+[20-Oct-2020 07:34:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php on line 32
+[20-Oct-2020 08:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php on line 19
+[20-Oct-2020 09:55:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/services.php on line 18
+[20-Oct-2020 11:29:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/database.php on line 18
+[20-Oct-2020 13:41:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php on line 16
+[20-Oct-2020 15:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[27-Oct-2020 20:38:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tvya4c9bs13u/public_html/HRMS/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/view.php on line 17
+[27-Oct-2020 21:00:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/queue.php on line 16
+[27-Oct-2020 21:07:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/logging.php on line 19
+[27-Oct-2020 21:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/services.php on line 18
+[27-Oct-2020 21:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/database.php on line 18
+[27-Oct-2020 21:50:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/broadcasting.php on line 18
+[29-Oct-2020 21:16:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/app.php on line 16
+[29-Oct-2020 21:18:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/mail.php on line 19
+[29-Oct-2020 21:43:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php on line 91
+[29-Oct-2020 21:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/cache.php on line 21
+[29-Oct-2020 22:22:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/hashing.php on line 32
+[29-Oct-2020 22:40:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/session.php on line 21
+[29-Oct-2020 22:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/filesystems.php on line 16
+[04-Apr-2022 19:36:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php on line 91
+[05-May-2022 17:26:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php on line 91
+[19-May-2022 07:50:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/config/excel.php on line 91

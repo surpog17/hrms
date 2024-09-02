@@ -1,0 +1,24 @@
+[24-Aug-2020 14:09:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php on line 8
+[15-Sep-2020 08:41:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php on line 8
+[15-Sep-2020 08:41:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php on line 8
+[15-Sep-2020 13:33:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php on line 8
+[19-Sep-2020 14:16:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php on line 8
+[05-Oct-2020 01:48:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Exceptions/Handler.php on line 8

@@ -1,0 +1,1 @@
+[15-Sep-2020 09:02:23 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Validation\Rule' not found in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Rules/CurrentPasswordCheckRule.php on line 8

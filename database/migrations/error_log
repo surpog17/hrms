@@ -1,0 +1,764 @@
+[24-Aug-2020 14:20:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[24-Aug-2020 14:20:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[24-Aug-2020 14:20:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php on line 7
+[24-Aug-2020 14:20:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[24-Aug-2020 14:20:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php on line 7
+[24-Aug-2020 14:20:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php on line 7
+[24-Aug-2020 14:20:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072328_create_rules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072328_create_rules_table.php on line 7
+[24-Aug-2020 14:20:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_012559_create_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_012559_create_absents_table.php on line 7
+[24-Aug-2020 14:20:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_064114_create_employees_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_064114_create_employees_table.php on line 7
+[24-Aug-2020 14:21:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php on line 7
+[24-Aug-2020 14:21:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php on line 7
+[24-Aug-2020 14:21:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_055123_create_warnings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_055123_create_warnings_table.php on line 7
+[24-Aug-2020 14:21:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_01_045139_create_loans_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_01_045139_create_loans_table.php on line 7
+[24-Aug-2020 14:21:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php on line 7
+[24-Aug-2020 14:21:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_14_065429_create_registered_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_14_065429_create_registered_absents_table.php on line 7
+[24-Aug-2020 14:21:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_16_203230_create_merit_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_16_203230_create_merit_types_table.php on line 7
+[24-Aug-2020 14:21:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_170059_create_planneds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_170059_create_planneds_table.php on line 7
+[24-Aug-2020 14:21:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_203045_create_merits_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_203045_create_merits_table.php on line 7
+[24-Aug-2020 14:21:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053648_create_awards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053648_create_awards_table.php on line 7
+[24-Aug-2020 14:21:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php on line 7
+[24-Aug-2020 14:22:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php on line 7
+[24-Aug-2020 14:22:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php on line 7
+[24-Aug-2020 14:22:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php on line 7
+[24-Aug-2020 14:22:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php on line 7
+[24-Aug-2020 14:22:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130351_create_webhr_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130351_create_webhr_absents_table.php on line 7
+[24-Aug-2020 14:22:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130839_create_webhr_sicks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130839_create_webhr_sicks_table.php on line 7
+[24-Aug-2020 14:22:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130858_create_webhr_leaves_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130858_create_webhr_leaves_table.php on line 7
+[24-Aug-2020 14:22:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130919_create_webhr_lates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130919_create_webhr_lates_table.php on line 7
+[24-Aug-2020 14:22:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130949_create_webhr_travel_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130949_create_webhr_travel_table.php on line 7
+[24-Aug-2020 14:22:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_20_061217_create_new_resigns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_20_061217_create_new_resigns_table.php on line 7
+[15-Sep-2020 08:41:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[15-Sep-2020 08:41:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php on line 7
+[15-Sep-2020 08:41:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_20_061217_create_new_resigns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_20_061217_create_new_resigns_table.php on line 7
+[15-Sep-2020 08:41:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 08:41:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php on line 7
+[15-Sep-2020 08:41:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php on line 7
+[15-Sep-2020 08:41:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php on line 7
+[15-Sep-2020 08:41:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php on line 7
+[15-Sep-2020 08:41:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php on line 7
+[15-Sep-2020 08:41:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[15-Sep-2020 08:41:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_055123_create_warnings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_055123_create_warnings_table.php on line 7
+[15-Sep-2020 08:41:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_20_061217_create_new_resigns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_20_061217_create_new_resigns_table.php on line 7
+[15-Sep-2020 08:41:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_01_045139_create_loans_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_01_045139_create_loans_table.php on line 7
+[15-Sep-2020 08:41:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php on line 7
+[15-Sep-2020 08:41:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php on line 7
+[15-Sep-2020 08:41:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php on line 7
+[15-Sep-2020 08:41:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php on line 7
+[15-Sep-2020 08:41:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php on line 7
+[15-Sep-2020 08:41:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[15-Sep-2020 08:41:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php on line 7
+[15-Sep-2020 08:41:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[15-Sep-2020 08:41:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_01_045139_create_loans_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_01_045139_create_loans_table.php on line 7
+[15-Sep-2020 08:41:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_14_065429_create_registered_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_14_065429_create_registered_absents_table.php on line 7
+[15-Sep-2020 08:41:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php on line 7
+[15-Sep-2020 08:41:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php on line 7
+[15-Sep-2020 08:41:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 08:41:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php on line 7
+[15-Sep-2020 08:41:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php on line 7
+[15-Sep-2020 08:41:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php on line 7
+[15-Sep-2020 08:41:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php on line 7
+[15-Sep-2020 08:41:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php on line 7
+[15-Sep-2020 08:41:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php on line 7
+[15-Sep-2020 08:41:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130351_create_webhr_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130351_create_webhr_absents_table.php on line 7
+[15-Sep-2020 08:41:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php on line 7
+[15-Sep-2020 08:41:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072328_create_rules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072328_create_rules_table.php on line 7
+[15-Sep-2020 08:41:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130839_create_webhr_sicks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130839_create_webhr_sicks_table.php on line 7
+[15-Sep-2020 08:41:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_16_203230_create_merit_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_16_203230_create_merit_types_table.php on line 7
+[15-Sep-2020 08:41:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130919_create_webhr_lates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130919_create_webhr_lates_table.php on line 7
+[15-Sep-2020 08:41:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053648_create_awards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053648_create_awards_table.php on line 7
+[15-Sep-2020 08:41:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130858_create_webhr_leaves_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130858_create_webhr_leaves_table.php on line 7
+[15-Sep-2020 08:41:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_012559_create_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_012559_create_absents_table.php on line 7
+[15-Sep-2020 08:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130949_create_webhr_travel_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130949_create_webhr_travel_table.php on line 7
+[15-Sep-2020 13:33:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 13:33:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php on line 7
+[15-Sep-2020 13:33:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php on line 7
+[15-Sep-2020 13:33:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[15-Sep-2020 13:33:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php on line 7
+[15-Sep-2020 13:33:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[15-Sep-2020 13:33:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php on line 7
+[15-Sep-2020 13:33:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_055123_create_warnings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_055123_create_warnings_table.php on line 7
+[15-Sep-2020 13:33:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php on line 7
+[15-Sep-2020 13:33:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php on line 7
+[15-Sep-2020 13:33:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php on line 7
+[15-Sep-2020 13:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php on line 7
+[15-Sep-2020 13:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_170059_create_planneds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_170059_create_planneds_table.php on line 7
+[15-Sep-2020 13:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_16_203230_create_merit_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_16_203230_create_merit_types_table.php on line 7
+[15-Sep-2020 13:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php on line 7
+[15-Sep-2020 13:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053648_create_awards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053648_create_awards_table.php on line 7
+[15-Sep-2020 13:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_012559_create_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_012559_create_absents_table.php on line 7
+[15-Sep-2020 13:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072328_create_rules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072328_create_rules_table.php on line 7
+[15-Sep-2020 13:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php on line 7
+[15-Sep-2020 13:33:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_064114_create_employees_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_064114_create_employees_table.php on line 7
+[15-Sep-2020 13:33:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_203045_create_merits_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_203045_create_merits_table.php on line 7
+[15-Sep-2020 13:33:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_14_065429_create_registered_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_14_065429_create_registered_absents_table.php on line 7
+[15-Sep-2020 13:33:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130858_create_webhr_leaves_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130858_create_webhr_leaves_table.php on line 7
+[15-Sep-2020 13:33:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130949_create_webhr_travel_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130949_create_webhr_travel_table.php on line 7
+[15-Sep-2020 13:33:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130839_create_webhr_sicks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130839_create_webhr_sicks_table.php on line 7
+[15-Sep-2020 13:33:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130919_create_webhr_lates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130919_create_webhr_lates_table.php on line 7
+[15-Sep-2020 20:48:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:48:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:48:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:48:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php on line 7
+[15-Sep-2020 20:48:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:48:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:48:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[15-Sep-2020 20:48:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[15-Sep-2020 20:48:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[15-Sep-2020 20:48:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:49:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[15-Sep-2020 20:49:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[15-Sep-2020 20:49:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[15-Sep-2020 20:49:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php on line 7
+[15-Sep-2020 20:49:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[15-Sep-2020 20:49:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:49:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[15-Sep-2020 20:49:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php on line 7
+[15-Sep-2020 20:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:49:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:49:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[15-Sep-2020 20:50:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[15-Sep-2020 20:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php on line 7
+[15-Sep-2020 20:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[15-Sep-2020 20:50:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:50:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:50:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:50:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:50:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:50:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:50:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Sep-2020 20:51:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[18-Sep-2020 20:19:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php on line 7
+[25-Sep-2020 13:43:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php on line 7
+[25-Sep-2020 21:46:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php on line 7
+[26-Sep-2020 16:14:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_14_065429_create_registered_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_14_065429_create_registered_absents_table.php on line 7
+[04-Oct-2020 13:24:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php on line 7
+[04-Oct-2020 13:28:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_14_065429_create_registered_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_14_065429_create_registered_absents_table.php on line 7
+[04-Oct-2020 20:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php on line 7
+[04-Oct-2020 23:17:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php on line 7
+[05-Oct-2020 11:53:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[13-Oct-2020 17:49:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php on line 7
+[14-Oct-2020 16:37:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[14-Oct-2020 17:59:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_30_055440_create_types_table.php on line 7
+[14-Oct-2020 18:03:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072328_create_rules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072328_create_rules_table.php on line 7
+[14-Oct-2020 18:16:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_01_045139_create_loans_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_01_045139_create_loans_table.php on line 7
+[14-Oct-2020 21:48:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php on line 7
+[15-Oct-2020 00:20:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_02_062500_create_mornings_table.php on line 7
+[15-Oct-2020 01:36:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_055123_create_warnings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_055123_create_warnings_table.php on line 7
+[15-Oct-2020 10:28:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_203045_create_merits_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_203045_create_merits_table.php on line 7
+[15-Oct-2020 11:42:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053648_create_awards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053648_create_awards_table.php on line 7
+[15-Oct-2020 15:29:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php on line 7
+[15-Oct-2020 16:48:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_012559_create_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_012559_create_absents_table.php on line 7
+[15-Oct-2020 17:11:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_170059_create_planneds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_170059_create_planneds_table.php on line 7
+[15-Oct-2020 17:22:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php on line 7
+[15-Oct-2020 22:06:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php on line 7
+[16-Oct-2020 03:08:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_064114_create_employees_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_064114_create_employees_table.php on line 7
+[16-Oct-2020 07:07:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130919_create_webhr_lates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130919_create_webhr_lates_table.php on line 7
+[16-Oct-2020 09:29:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_20_061217_create_new_resigns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_20_061217_create_new_resigns_table.php on line 7
+[16-Oct-2020 10:42:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130839_create_webhr_sicks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130839_create_webhr_sicks_table.php on line 7
+[16-Oct-2020 12:00:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_16_203230_create_merit_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_16_203230_create_merit_types_table.php on line 7
+[16-Oct-2020 15:49:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130858_create_webhr_leaves_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130858_create_webhr_leaves_table.php on line 7
+[16-Oct-2020 16:47:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130949_create_webhr_travel_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130949_create_webhr_travel_table.php on line 7
+[16-Oct-2020 17:10:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130351_create_webhr_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130351_create_webhr_absents_table.php on line 7
+[17-Oct-2020 00:49:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php on line 7
+[17-Oct-2020 16:44:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[07-Nov-2020 16:15:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_111212_create_times_table.php on line 7
+[07-Nov-2020 16:15:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[07-Nov-2020 16:15:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053734_create_banks_table.php on line 7
+[07-Nov-2020 16:19:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130858_create_webhr_leaves_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130858_create_webhr_leaves_table.php on line 7
+[07-Nov-2020 16:27:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_071144_create_calculateds_table.php on line 7
+[07-Nov-2020 16:38:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053704_create_deducts_table.php on line 7
+[07-Nov-2020 16:39:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_064114_create_employees_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_16_064114_create_employees_table.php on line 7
+[07-Nov-2020 16:40:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130839_create_webhr_sicks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130839_create_webhr_sicks_table.php on line 7
+[07-Nov-2020 16:41:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[07-Nov-2020 16:42:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_203045_create_merits_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_203045_create_merits_table.php on line 7
+[07-Nov-2020 16:42:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053932_create_payrolls_table.php on line 7
+[07-Nov-2020 16:42:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_045631_create_categories_table.php on line 7
+[07-Nov-2020 16:43:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_20_061217_create_new_resigns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_20_061217_create_new_resigns_table.php on line 7
+[07-Nov-2020 16:44:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130949_create_webhr_travel_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130949_create_webhr_travel_table.php on line 7
+[07-Nov-2020 16:44:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072328_create_rules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072328_create_rules_table.php on line 7
+[08-Nov-2020 06:03:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_064807_create_raws_table.php on line 7
+[08-Nov-2020 06:25:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_01_045139_create_loans_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_01_045139_create_loans_table.php on line 7
+[08-Nov-2020 06:32:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_15_072224_create_webhrs_table.php on line 7
+[08-Nov-2020 06:54:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053648_create_awards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_14_053648_create_awards_table.php on line 7
+[08-Nov-2020 07:08:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072216_create_workings_table.php on line 7
+[08-Nov-2020 07:22:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_02_16_072035_create_holidays_table.php on line 7
+[08-Nov-2020 07:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_055123_create_warnings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_03_31_055123_create_warnings_table.php on line 7
+[08-Nov-2020 08:49:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_170059_create_planneds_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_17_170059_create_planneds_table.php on line 7
+[08-Nov-2020 08:56:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130919_create_webhr_lates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130919_create_webhr_lates_table.php on line 7
+[09-Nov-2020 11:22:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_16_203230_create_merit_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_04_16_203230_create_merit_types_table.php on line 7
+[09-Nov-2020 11:22:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130351_create_webhr_absents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/database/migrations/2020_05_18_130351_create_webhr_absents_table.php on line 7

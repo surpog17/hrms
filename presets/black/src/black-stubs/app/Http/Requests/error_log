@@ -1,0 +1,24 @@
+[15-Sep-2020 09:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/PasswordRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/PasswordRequest.php on line 8
+[15-Sep-2020 09:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/ProfileRequest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/ProfileRequest.php on line 9
+[15-Sep-2020 09:03:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/UserRequest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/UserRequest.php on line 9
+[15-Sep-2020 13:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/ProfileRequest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/ProfileRequest.php on line 9
+[15-Sep-2020 13:47:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/UserRequest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/UserRequest.php on line 9
+[15-Sep-2020 13:47:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/PasswordRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/app/Http/Requests/PasswordRequest.php on line 8

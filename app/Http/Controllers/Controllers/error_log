@@ -1,0 +1,568 @@
+[15-Sep-2020 08:54:08 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php on line 12
+[15-Sep-2020 08:54:08 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php on line 8
+[15-Sep-2020 08:54:08 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php on line 7
+[15-Sep-2020 08:54:08 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php on line 7
+[15-Sep-2020 08:54:08 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php on line 9
+[15-Sep-2020 08:54:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php on line 8
+[15-Sep-2020 08:54:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php on line 8
+[15-Sep-2020 08:54:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php on line 11
+[15-Sep-2020 08:54:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php on line 10
+[15-Sep-2020 08:54:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php on line 9
+[15-Sep-2020 08:54:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php on line 10
+[15-Sep-2020 08:54:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php on line 9
+[15-Sep-2020 08:54:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php on line 18
+[15-Sep-2020 08:54:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/BankController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/BankController.php on line 10
+[15-Sep-2020 08:54:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php on line 8
+[15-Sep-2020 08:54:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php on line 31
+[15-Sep-2020 08:54:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php on line 14
+[15-Sep-2020 08:54:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php on line 8
+[15-Sep-2020 08:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php on line 8
+[15-Sep-2020 08:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PageController.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PageController.php on line 5
+[15-Sep-2020 08:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php on line 12
+[15-Sep-2020 08:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php on line 8
+[15-Sep-2020 08:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php on line 10
+[15-Sep-2020 08:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php on line 10
+[15-Sep-2020 08:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php on line 18
+[15-Sep-2020 08:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php on line 18
+[15-Sep-2020 08:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php on line 10
+[15-Sep-2020 08:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php on line 7
+[15-Sep-2020 08:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php on line 10
+[15-Sep-2020 08:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php on line 11
+[15-Sep-2020 08:54:14 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php on line 9
+[15-Sep-2020 08:54:14 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/BankController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/BankController.php on line 10
+[15-Sep-2020 08:54:14 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php on line 9
+[15-Sep-2020 08:54:14 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php on line 8
+[15-Sep-2020 08:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php on line 14
+[15-Sep-2020 08:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php on line 25
+[15-Sep-2020 08:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php on line 8
+[15-Sep-2020 08:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php on line 31
+[15-Sep-2020 08:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php on line 10
+[15-Sep-2020 08:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php on line 11
+[15-Sep-2020 08:54:16 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php on line 8
+[15-Sep-2020 08:54:16 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php on line 18
+[15-Sep-2020 08:54:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php on line 9
+[15-Sep-2020 08:54:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php on line 7
+[15-Sep-2020 08:54:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php on line 25
+[15-Sep-2020 08:54:18 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php on line 11
+[15-Sep-2020 08:54:18 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PageController.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PageController.php on line 5
+[15-Sep-2020 08:54:20 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php on line 10
+[15-Sep-2020 13:35:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php on line 12
+[15-Sep-2020 13:35:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php on line 8
+[15-Sep-2020 13:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php on line 7
+[15-Sep-2020 13:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php on line 10
+[15-Sep-2020 13:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php on line 8
+[15-Sep-2020 13:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php on line 9
+[15-Sep-2020 13:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php on line 11
+[15-Sep-2020 13:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php on line 9
+[15-Sep-2020 13:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php on line 12
+[15-Sep-2020 13:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/BankController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/BankController.php on line 10
+[15-Sep-2020 13:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php on line 10
+[15-Sep-2020 13:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php on line 9
+[15-Sep-2020 13:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php on line 18
+[15-Sep-2020 13:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php on line 10
+[15-Sep-2020 13:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php on line 8
+[15-Sep-2020 13:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php on line 9
+[15-Sep-2020 13:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php on line 14
+[15-Sep-2020 13:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php on line 8
+[15-Sep-2020 13:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php on line 8
+[15-Sep-2020 13:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php on line 31
+[15-Sep-2020 13:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php on line 8
+[15-Sep-2020 13:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php on line 8
+[15-Sep-2020 13:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php on line 31
+[15-Sep-2020 13:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PageController.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PageController.php on line 5
+[15-Sep-2020 13:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php on line 10
+[15-Sep-2020 13:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php on line 18
+[15-Sep-2020 13:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php on line 10
+[15-Sep-2020 13:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php on line 7
+[15-Sep-2020 13:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php on line 11
+[15-Sep-2020 13:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php on line 7
+[15-Sep-2020 13:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php on line 8
+[15-Sep-2020 13:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php on line 9
+[15-Sep-2020 13:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php on line 11
+[15-Sep-2020 13:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php on line 25
+[15-Sep-2020 13:35:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php on line 14
+[15-Sep-2020 13:35:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php on line 8
+[15-Sep-2020 13:35:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php on line 18
+[15-Sep-2020 13:35:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php on line 10
+[15-Sep-2020 13:35:41 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php on line 9
+[15-Sep-2020 13:35:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php on line 10
+[15-Sep-2020 13:35:41 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php on line 10
+[15-Sep-2020 13:35:42 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php on line 11
+[15-Sep-2020 13:35:42 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php on line 25
+[15-Sep-2020 13:35:42 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php on line 7
+[15-Sep-2020 13:35:42 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php on line 8
+[15-Sep-2020 13:35:48 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php on line 18
+[21-Sep-2020 10:00:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php on line 10
+[28-Oct-2020 21:14:26 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php on line 10
+[29-Oct-2020 21:06:35 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php on line 12
+[01-Nov-2020 01:05:43 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/BankController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/BankController.php on line 10
+[04-Nov-2020 13:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php on line 25
+[04-Nov-2020 14:00:42 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php on line 8
+[04-Nov-2020 15:43:06 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php on line 11
+[04-Nov-2020 16:17:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php on line 31
+[04-Nov-2020 19:26:48 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php on line 10
+[04-Nov-2020 22:22:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php on line 18
+[04-Nov-2020 22:28:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php on line 18
+[04-Nov-2020 22:34:14 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php on line 9
+[04-Nov-2020 22:39:55 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php on line 7
+[05-Nov-2020 06:38:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/Controller.php on line 10
+[05-Nov-2020 22:05:30 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php on line 8
+[06-Nov-2020 04:19:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php on line 8
+[07-Nov-2020 02:10:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php on line 9
+[07-Nov-2020 04:41:53 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php on line 9
+[07-Nov-2020 05:58:16 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PageController.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PageController.php on line 5
+[07-Nov-2020 09:41:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php on line 8
+[07-Nov-2020 13:36:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php on line 7
+[07-Nov-2020 18:59:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AwardController.php on line 10
+[08-Nov-2020 02:12:06 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php on line 10
+[08-Nov-2020 12:19:33 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/AbsentController.php on line 12
+[08-Nov-2020 17:17:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php on line 11
+[08-Nov-2020 20:21:57 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php on line 8
+[09-Nov-2020 09:02:33 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php on line 14
+[11-Nov-2020 00:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PageController.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PageController.php on line 5
+[11-Nov-2020 00:24:58 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/ProfileController.php on line 9
+[11-Nov-2020 00:25:01 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RawController.php on line 25
+[11-Nov-2020 00:26:20 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HomeController.php on line 9
+[11-Nov-2020 00:28:30 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/DeductController.php on line 10
+[11-Nov-2020 00:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PlannedController.php on line 7
+[11-Nov-2020 00:29:45 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CategoryController.php on line 8
+[11-Nov-2020 00:29:58 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritController.php on line 10
+[11-Nov-2020 00:30:41 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/PayrollController.php on line 18
+[11-Nov-2020 00:32:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/TypeController.php on line 8
+[11-Nov-2020 00:33:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/LoanController.php on line 11
+[11-Nov-2020 00:37:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/MeritTypeController.php on line 8
+[12-Nov-2020 11:18:19 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/UserController.php on line 9
+[12-Nov-2020 11:18:27 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WordController.php on line 31
+[12-Nov-2020 11:22:04 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/RuleController.php on line 7
+[12-Nov-2020 11:22:57 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/HolidayController.php on line 8
+[12-Nov-2020 11:23:57 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/CalculatedController.php on line 14
+[12-Nov-2020 11:26:46 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WarningController.php on line 18
+[12-Nov-2020 11:30:15 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/WorkingController.php on line 8
+[12-Nov-2020 11:30:27 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/EmployeeController.php on line 11
+[12-Nov-2020 11:37:03 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/BankController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/app/Http/Controllers/BankController.php on line 10

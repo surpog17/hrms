@@ -1,0 +1,16 @@
+[15-Sep-2020 13:45:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/database/seeds/DatabaseSeeder.php on line 5
+[15-Sep-2020 13:45:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/database/seeds/UsersTableSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/database/seeds/UsersTableSeeder.php on line 6
+[15-Sep-2020 13:45:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/database/seeds/DatabaseSeeder.php on line 5
+[15-Sep-2020 13:45:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/database/seeds/UsersTableSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tvya4c9bs13u/public_html/HRMS/presets/black/src/black-stubs/database/seeds/UsersTableSeeder.php on line 6
