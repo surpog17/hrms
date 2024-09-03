@@ -6,8 +6,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: my-laravel-app
-    container_name: laravel_app
+    image: hrms-app
+    container_name: hrms_app
     restart: unless-stopped
     working_dir: /var/www
     volumes:
